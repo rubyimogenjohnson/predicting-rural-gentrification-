@@ -2,7 +2,7 @@
 Data and code for CASA dissertation, looking to identify and predict gentrification within rural communities. 
 ***
 Contents of notebooks as follows: 
-1. Census Data Collection - Collecting all data from 2001 to 2011 for LSOAs within Kent to create a comprehensive LSOA profile.
+##### 1. Census Data Collection - Collecting all data from 2001 to 2011 for LSOAs within Kent to create a comprehensive LSOA profile.
 2. Ranking LSOAs Prep - Cleaning data for stage 1, census-derived ascending classification
 3A. Ranking LSOAs - creating CI scores and ranking LSOAs to identify ascending categories using census data
 3B. Clustering Ascending - Clustering ascending LSOAs to find typologies of neighbourhood change using census data
